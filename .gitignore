@@ -1,0 +1,9 @@
+include/config.php
+upload/*
+!upload/.gitkeep
+*.log
+test.php
+gen.php
+.vscode/
+.DS_Store
+Thumbs.db
